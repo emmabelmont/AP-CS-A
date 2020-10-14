@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=EasySound
+comment0.text=\n\ @author\ Gary\ Litvin\n\ @version\ 1.8,\ 01/01/15\n\ <p>\n\ Appendix\ to\:\n\ <p>\n\ <i>Java\ Methods\:\ Object-Oriented\ Programming\ and\ Data\ Structures</i>,\ 3rd\ AP\ Edition<br>\n\ (Skylight\ Publishing\ 2015,\ ISBN\ 978-0-9824775-6-4)\n\ <p>\n\ EasySound\ provides\ a\ simple\ way\ od\ playing\ a\ sound\ in\ an\ application.\n\ \ \ <pre>\n\ \ \ \n\ \ \ Example\:\n\ \ \ \=\=\=\=\=\=\=\n\ \n\ \ \ \ \ \ \ EasySound\ bells\ \=\ new\ EasySound("bells.wav");\n\ \ \ \ \ \ \ bells.play();\n\n\ \ \ \ </pre>\n
+comment1.params=fileName
+comment1.target=EasySound(java.lang.String)
+comment1.text=\n\ Constructs\ an\ <code>EasySound</code>\ for\ a\ given\ audio\ file.\n\ @param\ fileName\ the\ name\ or\ pathname\ of\ the\ audio\ clip\ file.\n
+comment2.params=
+comment2.target=void\ play()
+comment2.text=\n\ Plays\ this\ <code>EasySound</code>.\n
+numComments=3
